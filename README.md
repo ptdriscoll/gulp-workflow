@@ -1,3 +1,3 @@
-# A basic workflow
+# A basic Gulp workflow
 
-This is an example of workflow management.
+This is an example of Gulp workflow management.
